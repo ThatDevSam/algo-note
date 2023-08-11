@@ -1,0 +1,5 @@
+## Complexity Analysis
+* Complexity Analysis is how we measure the effeciency of a program.
+* Ultimatly it give us an objective way of measuring the effeciency of a solution to a problem.
+* time complexity - measure of how much time a solution takes to run.
+* space complexity - measure of how much space a solution takes up in computer memory. 
